@@ -1,0 +1,73 @@
+{
+
+    "flights":[
+    
+              {
+    
+               "no":1,
+               "name":"KSRTC",
+               "route":"HUBLI TO GADAG"
+    
+                
+              },
+              {
+                "no":2,
+               "name":"KSRTC",
+               "route":"BELGUM TO HUBLI"
+    
+              },
+              {
+                "no":3,
+               "name":"Airavat",
+               "route":"HUBLI TO BOMBAY"
+    
+              },
+              {
+    
+               "no":4,
+               "name":"EXPRESS",
+               "route":"BANGLORE TO DELHI"
+    
+              },
+              {
+                "no":5,
+                "name":"RAJHAMSA",
+                "route":"BANGLORE TO MYSORE"
+     
+              },
+              {
+                "no":6,
+                "name":"KSRTC",
+                "route":"BANGLORE TO GULBARGA"
+     
+              },
+              {
+                "no":7,
+                "name":"Airavat",
+                "route":"INDIA To Nepal"
+              },
+              {
+                "no":8,
+                "name":"Airavat",
+                "route":"Dharwad TO  haveri"
+              },
+              {
+                 "no":10,
+                 "name":"EXPRESS",
+                 "route":"BANGLORE TO DELHI"
+    
+    
+              }
+    
+    
+    
+    ]
+    
+    
+    
+    
+    }
+    
+    
+    
+    
